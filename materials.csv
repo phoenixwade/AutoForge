@@ -1,0 +1,112 @@
+Brand,Type,Color,Name,TD,Owned,Uuid
+BambuLab,PLA Silk+,#A8C6EE,Baby Blue,3.0,false,{f258b681-61b3-47ab-84e5-3c632162bbe0}
+BambuLab,PLA Silk+,#008BDA,Blue,3.0,false,{59888e10-1040-44f2-a6b6-a15460adc9cf}
+BambuLab,PLA Silk+,#018814,Candy Green,3.0,false,{590e9502-85d8-480c-8dac-79f035321316}
+BambuLab,PLA Silk+,#D02727,Candy Red,3.0,false,{29b60f66-8926-4d7d-95e4-18549130cbe3}
+BambuLab,PLA Silk+,#F3CFB2,Champagne,3.0,false,{3d159647-181c-4390-8c31-cfa4413db09a}
+BambuLab,PLA Silk+,#F4A925,Gold,3.0,false,{d27a2c9e-d4b2-4744-825f-163f761f7deb}
+BambuLab,PLA Silk+,#96DCB9,Mint,3.0,false,{11a81ed7-453d-4299-a36c-ac2d5b369227}
+BambuLab,PLA Silk+,#F7ADA6,Pink,3.0,false,{4c811c7a-7902-4706-a1d8-d43507c75bb0}
+BambuLab,PLA Silk+,#8671CB,Purple,3.0,false,{1501a14d-8dc1-4a81-a674-d44848dc44b9}
+BambuLab,PLA Silk+,#BA9594,Rose Gold,3.0,false,{0976c848-9895-488d-acee-e4c171b7c03d}
+BambuLab,PLA Silk+,#C8C8C8,Silver,3.0,false,{2147a356-dfa4-4db3-ac75-7ab17d508453}
+BambuLab,PLA Silk+,#5F6367,Titan Gray,3.0,false,{8581e4c7-f91b-4dbb-a76c-c9a6e9595402}
+BambuLab,PLA Silk+,#FFFFFF,White,3.0,false,{bf35e0d4-aefd-4661-b8bf-a25a1d6514f3}
+BambuLab Basic,PETG,#000000,Black,3.5,false,{b4e82e5b-8cc1-4cbb-976d-8aec327443b2}
+BambuLab Basic,PETG,#000E5B,Blue,2.5,false,{39d49e89-fbd1-4c96-bffe-d297a41d4ef7}
+BambuLab Basic,PETG,#606E81,Blue Gray,2.7,false,{938a676a-87cf-43d1-8a71-9dcca6db4e77}
+BambuLab Basic,PETG,#B28B33,Gold,1.7,false,{17f0954b-29d4-4958-bfb5-70ca6a8a2fd2}
+BambuLab Basic,PETG,#9EA2A2,Gray,3,false,{3d77a198-9003-411a-a0fd-5dc731cebceb}
+BambuLab Basic,PETG,#009639,Green,1.7,false,{0a4feb5b-e6d0-4bad-a9a2-3c0a02ff8d9d}
+BambuLab Basic,PETG,#0069B1,Lake Blue,4,false,{62e50775-c5f9-4896-8ce1-29bff6339584}
+BambuLab Basic,PETG,#B7DB57,Lime Green,2.7,false,{7bdd1b59-c2f6-4fd2-8948-257406af7341}
+BambuLab Basic,PETG,#F2EADA,Nature,8,false,{6119f4f9-2b3c-4c9f-95b4-3dcfa1226d0a}
+BambuLab Basic,PETG,#FF671F,Orange,4.5,false,{eed618fd-c51d-42a4-b971-50cc031aba7b}
+BambuLab Basic,PETG,#9E007E,Purple,2.5,false,{a774bbcb-ff08-4a4a-b9a4-cd5250808908}
+BambuLab Basic,PETG,#7D1112,Red,2.5,false,{262542bd-6819-4652-a835-3630338da515}
+BambuLab Basic,PETG,#FFFFFF,Transparent,50,false,{83f4eaa1-eb2b-4705-9e92-e95d3fbecfbb}
+BambuLab Basic,PETG,#FFFFFF,White,3.5,false,{b4e82e5b-8cc1-4cbb-976d-8aec327443b2}
+BambuLab Basic,PETG,#FCE300,Yellow,6,false,{b3ed312f-817d-436d-919d-d44492273b2b}
+BambuLab Basic,PLA,#00AE42,Bambu Green,6,false,{23a3aa5b-7c28-4688-a783-d299cbb8623a}
+BambuLab Basic,PLA,#00AE42,BambuLab Green,2,true,{23a3aa5b-7c28-4688-a783-d299cbb8623a}
+BambuLab Basic,PLA,#E7CEB5,Beige,8,false,{0e78ff37-53fa-40b4-a752-7fd38f38f142}
+BambuLab Basic,PLA,#000000,Black,0.6,true,{43eb13d1-f422-4d84-9bce-37a0e10a2158}
+BambuLab Basic,PLA,#00358E,Blue,4,true,{766f745e-c390-4c9d-8653-b16db19a1228}
+BambuLab Basic,PLA,#BECF00,Bright Green,4.2,false,{d0d049e4-7455-4b23-b037-bb73d124fb47}
+BambuLab Basic,PLA,#84754E,Bronze,1,false,{26bd5303-11c6-41d9-a400-56ac18056245}
+BambuLab Basic,PLA,#9D432C,Brown,2,false,{17ea47fa-6eb6-4109-911c-ea608f35cc85}
+BambuLab Basic,PLA,#0056B8,Cobalt Blue,1.2,false,{47d171c6-e6fa-43e2-b52e-b352c2044f0b}
+BambuLab Basic,PLA,#6F5034,Cocoa Brown,0.4,false,{505752c8-689d-42e7-8372-2b31fe9a109e}
+BambuLab Basic,PLA,#0086D6,Cyan,3.5,false,{843aefd0-878c-48b4-bbce-8fc5f1abfd11}
+BambuLab Basic,PLA,#545454,Dark Gray,0.6,false,{b3d2fa3f-861c-4162-b946-6e195ce91a9f}
+BambuLab Basic,PLA,#003B3B,Green,2,true,{beebebca-114a-49ad-a581-c72a369ccaa4}
+BambuLab Basic,PLA,#F5547C,Hot Pink,3.9,false,{70b96432-6e36-4b53-b734-05b0c6861c11}
+BambuLab Basic,PLA,#482960,Indigo Purple,1.1,false,{50cd7484-ddae-4e25-84fa-21b820ecdb99}
+BambuLab Basic,PLA,#FFFFFF,Jade White,0.2,true,{29d0549f-7950-4e60-b9e5-aa081f71d61b}
+BambuLab Basic,PLA,#D1D3D5,Light Gray,1.7,false,{54af0381-c181-462a-9e08-b417766f46da}
+BambuLab Basic,PLA,#CD007B,Magenta,3,false,{3100e0d4-45bf-4835-8637-517d55134e9d}
+BambuLab Basic,PLA,#9D2235,Maroon Red,1.6,false,{32b6c001-a340-449c-b942-9c0f523c2b4c}
+BambuLab Basic,PLA,#3F8E43,Mistletoe Green,1,false,{d88df60c-0eca-4d23-be4e-cf662a688d87}
+BambuLab Basic,PLA,#FF6A13,Orange,7,true,{7ef6136d-ae6c-47fa-96df-9a130cfe5855}
+BambuLab Basic,PLA,#FF5869,Pink,8,false,{d0052b88-70f8-488f-b071-0d62f887b51d}
+BambuLab Basic,PLA,#FF9016,Pumpkin Orange,5.5,false,{be641437-2559-4f8a-9bf2-89690b97d9e0}
+BambuLab Basic,PLA,#C00D1E,Red,4,true,{4fb13a86-6187-4300-95f2-ac2c877aae5e}
+BambuLab Basic,PLA,#A6A9AA,Silver,0.5,true,{940c9f5c-e618-4a2a-b11b-f1de28e7895e}
+BambuLab Basic,PLA,#FEC600,Sunflower Yellow,4.4,false,{7e544771-d59b-439d-b589-965d15ddbae4}
+BambuLab Basic,PLA,#00B1B7,Turquoise,1.4,false,{48abab87-a8f9-4ddc-8981-af3b91dfd513}
+BambuLab Basic,PLA,#FCE300,Yellow,6,true,{3d555b4e-0304-423a-b0b7-2a09bbaf8186}
+BambuLab HF,PETG,#000000,Black,0.8,false,{ecd461d2-4997-4935-9f00-1da73d85052a}
+BambuLab HF,PETG,#002E96,Blue,1.4,false,{eb3cab1a-6ceb-488c-9daa-3ba4eff8a855}
+BambuLab HF,PETG,#F9DFB9,Cream,3.4,false,{d25fdabb-bbc8-47b3-baa8-f8054f0850f8}
+BambuLab HF,PETG,#515151,Dark Gray,0.9,false,{4f4eaf1a-3a8f-4cc6-9a38-e04c94723426}
+BambuLab HF,PETG,#39541A,Forest Green,0.1,false,{a0777f1f-8e92-44ba-9687-26441cefc57d}
+BambuLab HF,PETG,#ADB1B2,Gray,0.5,false,{ab7f8fdb-00a2-4cd4-ad86-3504f46caa8d}
+BambuLab HF,PETG,#00AE42,Green,2.7,false,{2f5ce59b-395b-430a-a18a-5430d6a521d5}
+BambuLab HF,PETG,#1F79E5,Lake Blue,2.9,false,{9b27338a-e222-4f6d-8090-c5dd87cf06c2}
+BambuLab HF,PETG,#6EE53C,Lime Green,3.1,false,{b88fc190-3d4d-4163-804a-af039287d677}
+BambuLab HF,PETG,#F75403,Orange,3.5,false,{603a5783-a0f5-4d3e-9472-9a8659439424}
+BambuLab HF,PETG,#875718,Peanut Brown,2,false,{90ed08d3-6ec5-40bb-8461-cc2110aac122}
+BambuLab HF,PETG,#EB3A3A,Red,4.6,false,{bed101fe-140a-4b4b-b22b-8a9508fa1995}
+BambuLab HF,PETG,#FFFFFF,White,2.2,false,{733245c8-dc51-40d6-aafe-2fcc64e00bc2}
+BambuLab HF,PETG,#FFD00B,Yellow,4.5,false,{d585a8f2-eafc-4b10-80c5-9a1e380a28f3}
+BambuLab Matte,PLA,#C2E189,Apple Green,1.2,false,{d471790f-365e-449f-b739-b04ad1551f99}
+BambuLab Matte,PLA,#9B9EA0,Ash Gray,1.5,false,{12536dfb-5f35-4c55-a97d-58cd4d310c9c}
+BambuLab Matte,PLA,#CBC6B8,Bone White,1.6,false,{3cd001c2-e426-43ab-b7d7-c7e5b1f4370a}
+BambuLab Matte,PLA,#AE835B,Caramel,1.5,false,{28e57388-945a-4a8f-979c-1e3c7c239bb2}
+BambuLab Matte,PLA,#000000,Charcoal,0.6,false,{2ef999b6-b4be-4d9b-9b4b-e731ae6e3ad5}
+BambuLab Matte,PLA,#1C254C,Dark Blue,1,false,{ba5650f5-385d-4ef4-a220-8ec1db440818}
+BambuLab Matte,PLA,#7D6556,Dark Brown,2,false,{c5f5bac6-3516-48d0-b32b-eb1859ea20f0}
+BambuLab Matte,PLA,#4D3324,Dark Chocolate,0.1,false,{b114e81f-a8ed-4131-86fa-9f4351aa6fbf}
+BambuLab Matte,PLA,#304301,Dark Green,1,false,{60910414-7f48-4ee8-b685-ff24de801797}
+BambuLab Matte,PLA,#BB3D43,Dark Red,1.5,false,{b1978c3b-b1f6-4370-ac64-3760c889ba28}
+BambuLab Matte,PLA,#E8DBB7,Desert Tan,1,false,{dbf5ba91-abb7-4169-bea5-f09000b59892}
+BambuLab Matte,PLA,#61C680,Grass Green,2,false,{e1852fac-b180-40d6-967d-c6ea118bebb9}
+BambuLab Matte,PLA,#8BD5EE,Ice Blue,3.5,false,{c299edae-d1d5-44c4-8a00-d83b292bf6dc}
+BambuLab Matte,PLA,#FFFFFF,Ivory White,3.5,false,{30b2332c-2baf-4802-a922-fb2d3e976a7b}
+BambuLab Matte,PLA,#D3B7A7,Latte Brown,2,false,{39209772-ef43-4ef1-9ee9-82d0aaa64b9b}
+BambuLab Matte,PLA,#FFE17F,Lemon Yellow,4,false,{2111fe2c-3829-45c1-970b-dcf50559728b}
+BambuLab Matte,PLA,#AE96D4,Lilac Purple,2,false,{f05dafbe-15f8-4841-82f5-a8ea12d4a150}
+BambuLab Matte,PLA,#F99963,Mandarin Orange,3,false,{0aa4cfd9-e8d6-494d-bea6-db65185fa0c9}
+BambuLab Matte,PLA,#0078BF,Marine Blue,0.5,false,{1f2f93c3-702f-4637-9578-7646996458cd}
+BambuLab Matte,PLA,#757575,Nardo Gray,0.7,false,{f1359a44-27c9-4358-9d2e-055351596bb1}
+BambuLab Matte,PLA,#304301,Pine Green,1,false,{60910414-7f48-4ee8-b685-ff24de801797}
+BambuLab Matte,PLA,#950051,Plum,1.6,false,{0f831014-043d-47be-b69d-6c11f6c09f2c}
+BambuLab Matte,PLA,#E4BDD0,Sakura Pink,3,false,{9881ec64-fc1f-4031-82c0-13e5e968e223}
+BambuLab Matte,PLA,#DE4343,Scarlet Red,2,false,{542ef79f-7757-47df-866d-fdfcea13c8d2}
+BambuLab Matte,PLA,#56B7E6,Sky Blue,1.3,false,{b1b9d9fa-6010-4c76-8557-221352770d55}
+BambuLab Matte,PLA,#B15533,Terracotta,1,false,{f26a79ed-7d21-4a93-afa1-a8a1c59bac94}
+BambuLab Tough,PLA,#000000,Black,0.6,false,{8a0821cb-e29c-4948-b1de-7299f113cc25}
+BambuLab Tough,PLA,#DDE5ED,Cream White,10,false,{3801d5af-9e13-40dd-9eb9-64f9eefb63b5}
+BambuLab Tough,PLA,#515A6C,Gray,1.8,false,{97d9e08f-8dc9-4c83-9aa8-dfab79af1a28}
+BambuLab Tough,PLA,#6667AB,Lavender Blue,2,false,{360b33e8-c3c1-4f0e-9db2-b687914ccd1d}
+BambuLab Tough,PLA,#053633,Pine Green,1.5,false,{6d6b8e6f-c48f-488b-86eb-bd4ae089d8b7}
+BambuLab Tough,PLA,#B22F18,Vermilion Red,3,false,{7a874d63-956c-4ca1-a8da-f1c8405feece}
+Generic,PLA,#000000,Black,0.2,true,{1cfe8a37-1f3c-4639-8beb-cd722e8fe049}
+Kingroon,PLA,#0A43AE,Blue,0.9,true,{5fb25e94-845c-43c4-b034-277564742a8d}
+Kingroon,PLA,#B46842,Brown,2.7,true,{c05c6048-5ba5-4dd3-a915-8dda806f26d9}
+Kingroon,PLA,#DFA241,Orange,4.6,true,{eda6cffd-a2fd-413c-ac96-9502bc780845}
+Kingroon,PLA,#D73737,Red,4.2,true,{d5ec4c45-5971-45ed-a2f6-12d81ee23e43}
+Overture,PLA,#7E9292,Glow,1,true,{610fa9c3-520f-4a45-a4ce-74d35444a5c4}
+PolyLite Pro,PLA,#A66301,Metallic Gold,2,true,{09b3356b-c5aa-4c2e-c6e5-05eeab02afd8}
+PolyLite Pro,PLA,#6843B1,Purple,1,true,{f8fba333-afbb-c45d-2661-dbf1b8419ac7}
+Sunlu,PLA+,#D22332,Red,6,true,{01100000-0000-0000-0000-000000000000}

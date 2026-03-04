@@ -29,11 +29,17 @@ dependencies = [
   "joblib>=1.4.2",
 ]
 
+[project.optional-dependencies]
+ui = [
+  "gradio>=5.0.0",
+]
+
 [tool.setuptools]
 package-dir = {"" = "src"}
 
 [project.scripts]
 autoforge = "autoforge.auto_forge:main"
+autoforge-ui = "autoforge.gradio_ui:main"
 
 [tool.pytest.ini_options]
 addopts = ""

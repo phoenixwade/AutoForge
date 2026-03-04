@@ -85,6 +85,22 @@ autoforge --input_image path/to/input_image.jpg --csv_file path/to/materials.csv
 
 This will generate separate STL files for each color, allowing you to print face-down on the build plate for a smooth finish. With `--pruning_max_colors 4`, you'll get 2 colored materials + 1 clear filament + 1 background = 4 total filaments (perfect for a 4-slot AMS).
 
+### Drag-and-Drop Interface
+
+If you prefer a UI over CLI arguments, you can launch the included drag-and-drop app:
+
+```bash
+pip install -U "AutoForge[ui]"
+autoforge-ui
+```
+
+Then drop:
+- an input image
+- a materials file (`.csv` or `.json`)
+- optionally a priority mask
+
+The app runs AutoForge and provides a preview plus a `.zip` download of all outputs.
+
 ### Command Line Arguments
 
 - `--config` *(Optional)* Path to a configuration file with the settings.
